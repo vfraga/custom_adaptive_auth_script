@@ -1,4 +1,4 @@
-# Adaptive Script Function Library
+# Custom Adaptive Script Function
 
 This module provides a custom JavaScript function, `getCustomPropertiesFromContext`, for use in WSO2 Identity Server 
 adaptive authentication scripts.

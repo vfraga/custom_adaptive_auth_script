@@ -1,4 +1,4 @@
-# Custom Properties Authenticator
+# Custom Authenticator
 
 This module contains a custom authenticator designed to capture and persist runtime properties during the authentication flow.
 
